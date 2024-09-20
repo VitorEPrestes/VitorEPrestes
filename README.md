@@ -14,8 +14,8 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<a href="https://instagram.com/vitorprst" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/e2071fe9-86af-4f95-8c0a-51851d773cbd">
 </a>
 
 <a href="mailto:vitoraamaroeduardo@gmail.com">
